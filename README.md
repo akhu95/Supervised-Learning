@@ -50,7 +50,4 @@ To build predictive models that:
 - Provided actionable insights for recruiters and immigration consultants.
 - Supported strategic hiring in talent-scarce U.S. regions.
 
----
-
-## 📁 Project Structure
 
